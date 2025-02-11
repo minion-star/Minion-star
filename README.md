@@ -24,10 +24,6 @@ Hi, I'm **William, Alderette**, a passionate **Senior Software Engineer** with e
 |---|---|---|
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=minion-star&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-star&show_icons=true&theme=radical&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-star&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) |
 
----
-
-## 🚀 **3D Contributions Graph**
-![GitHub Contribution Graph](https://github.com/minion-star/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -57,3 +53,6 @@ Hi, I'm **William, Alderette**, a passionate **Senior Software Engineer** with e
 ---
 
 **⚡ Fun Fact:** _"Code is like humor. When you have to explain it, it's bad." — Cory House_  
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minion-star&theme=tokyonight)](https://git.io/streak-stats)
