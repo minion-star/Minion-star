@@ -52,7 +52,7 @@ Hi, I'm **William, Alderette**, a passionate **Senior Software Engineer** with e
 ## 🌍 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/minion-star)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/minion-star)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fgk13790@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamalderette799@gmail.com)
 
 ---
 
