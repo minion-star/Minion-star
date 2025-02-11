@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="350px">
+</div>
 
 
 # 🚀 Senior Software Engineer | Full-Stack Developer | AI Enthusiast
+
 
 ### 🌟 Welcome to My GitHub!  
 Hi, I'm **William, Alderette**, a passionate **Senior Software Engineer** with expertise in **React, Angular, Python, AI, and cloud technologies**. I love building scalable applications, architecting robust backends, and designing dynamic user experiences.
@@ -55,4 +59,3 @@ Hi, I'm **William, Alderette**, a passionate **Senior Software Engineer** with e
 **⚡ Fun Fact:** _"Code is like humor. When you have to explain it, it's bad." — Cory House_  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minion-star&theme=tokyonight)](https://git.io/streak-stats)
