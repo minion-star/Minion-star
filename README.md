@@ -7,7 +7,7 @@
 
 
 ### 🌟 Welcome to My GitHub!  
-Hi, I'm **William, Alderette**, a passionate **Senior Software Engineer** with expertise in **React, Angular, Python, AI, and cloud technologies**. I love building scalable applications, architecting robust backends, and designing dynamic user experiences.
+Hi, I'm **William, Alderette**, a passionate **Senior Software Engineer** with expertise in **React, Angular, Python, AI, and cloud technologies**.   I love building scalable applications, architecting robust backends, and designing dynamic user experiences.
 
 ---
 
